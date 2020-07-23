@@ -152,7 +152,6 @@ header .active {
 
 .intro:hover img {
   border-radius: 50%;
-  width: 26.2%;
 }
 
 .intro .bio {
@@ -167,7 +166,7 @@ header .active {
   text-transform: capitalize;
   padding-bottom: 1.2%;
   margin-bottom: 1.2%;
-  border-bottom: 1px solid #ebebeb;
+  border-bottom: 1px solid #cccccc;
 }
 
 .bio-links {
@@ -203,8 +202,8 @@ header .active {
 
 .projects-heading {
   padding: 15px; 
-  border-top: 1px solid #ebebeb;
-  border-bottom: 1px solid #ebebeb;
+  border-top: 1px solid #cccccc;
+  border-bottom: 1px solid #cccccc;
   text-align: center;
   margin-bottom: 2%;
 }
